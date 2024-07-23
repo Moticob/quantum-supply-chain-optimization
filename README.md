@@ -28,12 +28,13 @@ This project demonstrates a simple quantum computing task using Qiskit to optimi
     pip install -r requirements.txt
    ```
     
-    Usage
+Usage
 Run the main script to execute the quantum supply chain optimization:
 
-bash
-Copier le code
+ ```bash
 python supply_chain_optimization.py
+ ```
+
 This will run the quantum circuit on a simulator and display a histogram of the results.
 
 Project Description
